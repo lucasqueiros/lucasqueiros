@@ -3,7 +3,7 @@
 
 I'm Lucas Queirós, an undergraduate student in Computer Science at Universidade Federal de Campina Grande.
 
-- 🔭 I’m currently learning ... Python and Java
+- 🔭 I’m currently learning ... Python, Machine Learning and Deep Learning.
 - 🌱 I have some simple projects that I do to learning about such languages.
 - 🧠 I'm interested in Data Science, AI and Machine Learning
 - 😄 I'm passionate about e-games(CS and WoW mostly 😍), movies, tv shows, football, snooker and of course MUSIC 🎶
